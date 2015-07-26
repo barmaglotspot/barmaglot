@@ -13,7 +13,7 @@
 	define("DEV_DEBUG", true);
 
 	// Language file to use
-	define("LANG", 'en');
+	define("LANG", 'ru');
 
 	// UAM Secret and password
 	define('UAM_SECRET', "C0ns3ga");
@@ -26,21 +26,27 @@
 	global $nav, $postloginurl;
 	$nav = array(
 		array(
-			"name"      => 'About This Hotspot',
-			"title"     => 'About this WiFi Hotspot',
-			"url"       => 'http://onalldevices.com/about'
+			"name"      => 'Главная',
+			"title"     => 'О сайте.',
+			"url"       => 'https://80.245.114.154/hotspotlogin/pages/about.php'
+		),
+        array(
+			"name"      => 'HotSpot',
+			"title"     => 'HotSpot.',
+			"url"       => 'https://80.245.114.154/hotspotlogin/hotspotlogin.php'
 		),
 		array(
-			"name"      => 'Contact Us',
-			"title"     => 'Contact On All Devices',
-			"url"       => 'http://onalldevices.com/contact'
+			"name"      => 'Обратная связь',
+			"title"     => 'Написать письмо администрации сайта.',
+			"url"       => 'https://80.245.114.154/hotspotlogin/pages/contact.php'
 		),
 		array(
-			"name"      => 'Terms &amp; Conditions',
-			"title"     => 'WiFi Hotspot Terms and Conditions',
-			"url"       => 'http://onalldevices.com'
+			"name"      => 'FAQ',
+			"title"     => 'Ответы на частозадаваемые вопросы и усоловия использования сервиса.',
+			"url"       => 'https://80.245.114.154/hotspotlogin/pages/faq.php'
 		)
 	);
+
 
 	// Where to redirect to after login - either local view (views/consumer-hub.php) or external landing page
 	//$postloginurl = 'http://bbc.co.uk';
