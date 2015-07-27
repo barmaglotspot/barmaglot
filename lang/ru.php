@@ -35,7 +35,7 @@
 		'forgot_password_no_question' => 'There was a problem retrieving your security question - please contact the site administrator.',
 		'forgot_password_invalid_answer' => 'There was a problem retrieving your password. Please check your memorable answer.',
 		'please_answer_security_question' => 'Please provide the answer to your security question, so I can retrieve your password.',
-		'enter_reminderanswer' => 'Please enter your memorable answer.',
+		'enter_reminderanswer' => 'Пожалуйста, введите секретный ответ.',
 		'pwd_reminder_title'    => 'Your Password Reminder',
 		'pwd_reminder_copy'     => 'Your password is below. Click OK to complete your login.',
 		'pwd_reminder_button'   => 'OK (Логин)'
