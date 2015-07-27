@@ -34,7 +34,7 @@
 		'enter_username'    => 'Пожалуйста, введите Ваш адрес электронной почты.',
 		'forgot_password_no_question' => 'Проблемы !!! - пожалуйста, свяжитесь с администратором сайта.',
 		'forgot_password_invalid_answer' => 'Для восстановления Вашего пароля. Пожалуйста,вспомните и введите секретный ответ.',
-		'please_answer_security_question' => 'Please provide the answer to your security question, so I can retrieve your password.',
+		'please_answer_security_question' => 'Пожалуйста, дайте ответ на ваш секретный вопрос,чтобы Вы могли получить свой пароль.',
 		'enter_reminderanswer' => 'Пожалуйста, введите секретный ответ.',
 		'pwd_reminder_title'    => 'Your Password Reminder',
 		'pwd_reminder_copy'     => 'Your password is below. Click OK to complete your login.',
