@@ -48,7 +48,7 @@ $configValues['CONFIG_DB_TBL_DALOBILLINGPLANS'] = 'billing_plans';
 $configValues['CONFIG_LANG'] = 'en';
 $configValues['CONFIG_LOG_FREE_SIGNUP_FILENAME'] = '/tmp/free-signup.log';
 $configValues['CONFIG_SIGNUP_MSG_TITLE'] = "Мы предоставляем бесплатный сервис регистрации в Barmaglot HotSpot. <br/>".
-					"Complete the form and click the Register button to generate a username and password.";
+					"Заполните форму и нажмите кнопку Зарегистрироваться или введите Логин и Пароль.";
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_HEADER'] = "Welcome to the Barmagot HotSpot";
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_BODY'] = "we have created a username and password for you to use <br/>".
 					" to login to our system, and they are as follows:<br/><br/>";
