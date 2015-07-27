@@ -1,7 +1,7 @@
 <?php
 	global $lang;
 	$lang = array(
-		'chillispot'        => 'Barmaglot hotspot',
+		'chillispot'        => 'Barmaglot HotSpot',
 		'errornonssl'       => 'Для входа используйте шифрованое соединение',
 		'already_logged_in' => 'Вы вошли как ',
 		'logout'            => 'Выйти',
