@@ -33,7 +33,7 @@
 		'failed_fields'     => 'The following fields are either invalid or required',
 		'enter_username'    => 'Пожалуйста, введите Ваш адрес электронной почты.',
 		'forgot_password_no_question' => 'Проблемы !!! - пожалуйста, свяжитесь с администратором сайта.',
-		'forgot_password_invalid_answer' => 'There was a problem retrieving your password. Please check your memorable answer.',
+		'forgot_password_invalid_answer' => 'Для восстановления Вашего пароля. Пожалуйста,вспомните и введите секретный ответ.',
 		'please_answer_security_question' => 'Please provide the answer to your security question, so I can retrieve your password.',
 		'enter_reminderanswer' => 'Пожалуйста, введите секретный ответ.',
 		'pwd_reminder_title'    => 'Your Password Reminder',
