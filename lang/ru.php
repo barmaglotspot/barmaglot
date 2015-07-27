@@ -31,7 +31,7 @@
 		'gender_male'       => 'Мужчина',
 		'gender_female'     => 'Женьщина',
 		'failed_fields'     => 'The following fields are either invalid or required',
-		'enter_username'    => 'Please enter your email address.',
+		'enter_username'    => 'Пожалуйста, введите Ваш адрес электронной почты.',
 		'forgot_password_no_question' => 'There was a problem retrieving your security question - please contact the site administrator.',
 		'forgot_password_invalid_answer' => 'There was a problem retrieving your password. Please check your memorable answer.',
 		'please_answer_security_question' => 'Please provide the answer to your security question, so I can retrieve your password.',
