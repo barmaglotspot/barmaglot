@@ -24,7 +24,7 @@
 		'answer'            => 'Секретный ответ',
 		'show_password'     => 'Показать Пароль',
 		'login_failed'      => 'Данные недействителны.',
-		'not_unique_userid' => 'This email address is already registered. Please login with this email address. If you have forgotton your password, use the Password Reminder button to retrieve it.',
+		'not_unique_userid' => 'Этот адрес электронной почты уже зарегистрирован. Пожалуйста, войдите через форму входа. Если вы забыли пароль, используйте кнопку Напоминание пароля.',
 		'chooseoption'      => 'Выберите',
 		'gender'            => 'Gender',
 		'age'               => 'Возраст',
