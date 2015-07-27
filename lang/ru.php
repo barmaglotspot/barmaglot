@@ -46,5 +46,5 @@
 	$lang['daemon_error'] = 'Вход должен быть выполнен через '.$lang['chillispot'].' server';
 	$lang['loggedin_title'] = 'Вошли в '.$lang['chillispot'];
 	$lang['loggingin_title'] = 'Вход в '.$lang['chillispot'];
-	$lang['loggedout_title'] = 'Logged out from '.$lang['chillispot'];
-	$lang['welcome_title'] = 'Приветствуем to '.$lang['chillispot'];
+	$lang['loggedout_title'] = 'Зарегистрирован из '.$lang['chillispot'];
+	$lang['welcome_title'] = 'Приветствуем Вас '.$lang['chillispot'];
