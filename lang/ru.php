@@ -26,7 +26,7 @@
 		'login_failed'      => 'Данные недействителны.',
 		'not_unique_userid' => 'Этот адрес электронной почты уже зарегистрирован. Пожалуйста, войдите через форму входа. Если вы забыли пароль, используйте кнопку Напоминание пароля.',
 		'chooseoption'      => 'Выберите',
-		'gender'            => 'Gender',
+		'gender'            => 'Пол',
 		'age'               => 'Возраст',
 		'gender_male'       => 'Мужчина',
 		'gender_female'     => 'Женьщина',
@@ -38,13 +38,13 @@
 		'enter_reminderanswer' => 'Please enter your memorable answer.',
 		'pwd_reminder_title'    => 'Your Password Reminder',
 		'pwd_reminder_copy'     => 'Your password is below. Click OK to complete your login.',
-		'pwd_reminder_button'   => 'OK (Login)'
+		'pwd_reminder_button'   => 'OK (Логин)'
 	);
-	$lang['pagetitle'] = $lang['chillispot'].' Login';
-	$lang['title_login'] = $lang['chillispot'].' Login';
+	$lang['pagetitle'] = $lang['chillispot'].'Логин';
+	$lang['title_login'] = $lang['chillispot'].' Логин';
 	$lang['title_loginfailed'] = $lang['chillispot'].' Ошибка авторизации !';
-	$lang['daemon_error'] = 'Login must be performed through '.$lang['chillispot'].' server';
+	$lang['daemon_error'] = 'Вход должен быть выполнен через '.$lang['chillispot'].' server';
 	$lang['loggedin_title'] = 'Logged in to '.$lang['chillispot'];
 	$lang['loggingin_title'] = 'Logging in to '.$lang['chillispot'];
 	$lang['loggedout_title'] = 'Logged out from '.$lang['chillispot'];
-	$lang['welcome_title'] = 'Welcome to '.$lang['chillispot'];
+	$lang['welcome_title'] = 'Приветствуем to '.$lang['chillispot'];
