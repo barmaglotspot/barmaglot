@@ -37,7 +37,7 @@
 		'please_answer_security_question' => 'Пожалуйста, дайте ответ на ваш секретный вопрос,чтобы Вы могли получить свой пароль.',
 		'enter_reminderanswer' => 'Пожалуйста, введите секретный ответ.',
 		'pwd_reminder_title'    => 'Востановить пароль.',
-		'pwd_reminder_copy'     => 'Your password is below. Click OK to complete your login.',
+		'pwd_reminder_copy'     => 'Заполните форму пароль ниже. Нажмите кнопку ОК, чтобы завершить авторизацию.',
 		'pwd_reminder_button'   => 'OK (Логин)'
 	);
 	$lang['pagetitle'] = $lang['chillispot'].'Логин';
