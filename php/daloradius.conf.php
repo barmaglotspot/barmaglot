@@ -24,8 +24,8 @@
 
 $configValues['CONFIG_DB_ENGINE'] = 'mysql';
 $configValues['CONFIG_DB_HOST'] = '127.0.0.1';
-$configValues['CONFIG_DB_USER'] = 'root';
-$configValues['CONFIG_DB_PASS'] = 'C0ns3ga';
+$configValues['CONFIG_DB_USER'] = 'ваш логин к базе mysql ';
+$configValues['CONFIG_DB_PASS'] = 'ваш пароль к базе mysql';
 $configValues['CONFIG_DB_NAME'] = 'radius';
 $configValues['CONFIG_DB_TBL_RADCHECK'] = 'radcheck';
 $configValues['CONFIG_DB_TBL_RADREPLY'] = 'radreply';
