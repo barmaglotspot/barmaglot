@@ -53,7 +53,7 @@ $configValues['CONFIG_SIGNUP_SUCCESS_MSG_HEADER'] = "Добро пожалова
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_BODY'] = "we have created a username and password for you to use <br/>".
 					" to login to our system, and they are as follows:<br/><br/>";
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_LOGIN_LINK'] = "<br/>Нажмите <b><a href='https://regtest.movieworx.co.uk/hotspotlogin/hotspotlogin.php'>here</a></b>".
-					" to return to the Login page and start your surfing<br/><br/>";
+					" вернуться к странице входа и начать заново<br/><br/>";
 $configValues['CONFIG_SIGNUP_FAILURE_MSG_FIELDS'] = "You didn't fill in your first and last name, please fill-in the form again";
 $configValues['CONFIG_SIGNUP_FAILURE_MSG_CAPTCHA'] = "Код проверки введен не правильно, попробуйте еще раз";
 
