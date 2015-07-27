@@ -49,11 +49,11 @@ $configValues['CONFIG_LANG'] = 'ru';
 $configValues['CONFIG_LOG_FREE_SIGNUP_FILENAME'] = '/tmp/free-signup.log';
 $configValues['CONFIG_SIGNUP_MSG_TITLE'] = "Мы предоставляем бесплатный сервис регистрации в Barmaglot HotSpot. <br/>".
 					"Заполните форму и нажмите кнопку Зарегистрироваться или введите Логин и Пароль.";
-$configValues['CONFIG_SIGNUP_SUCCESS_MSG_HEADER'] = "Добро пожаловать в Barmagot HotSpot";
+$configValues['CONFIG_SIGNUP_SUCCESS_MSG_HEADER'] = "Добро пожаловать в Barmagot HotSpot.";
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_BODY'] = "создано имя пользователя и пароль для вашего использования. <br/>".
 					" to login to our system, and they are as follows:<br/><br/>";
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_LOGIN_LINK'] = "<br/>Нажмите <b><a href='https://regtest.movieworx.co.uk/hotspotlogin/hotspotlogin.php'>here</a></b>".
-					" вернуться к странице входа и начать заново<br/><br/>";
-$configValues['CONFIG_SIGNUP_FAILURE_MSG_FIELDS'] = "You didn't fill in your first and last name, please fill-in the form again";
-$configValues['CONFIG_SIGNUP_FAILURE_MSG_CAPTCHA'] = "Код проверки введен не правильно, попробуйте еще раз";
+					" вернуться к странице входа и начать заново.<br/><br/>";
+$configValues['CONFIG_SIGNUP_FAILURE_MSG_FIELDS'] = "Вы не заполнили все поля, пожалуйста, заполните в форму снова.";
+$configValues['CONFIG_SIGNUP_FAILURE_MSG_CAPTCHA'] = "Код проверки введен не правильно, попробуйте еще раз.";
 
