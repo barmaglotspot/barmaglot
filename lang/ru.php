@@ -45,6 +45,6 @@
 	$lang['title_loginfailed'] = $lang['chillispot'].' Ошибка авторизации !';
 	$lang['daemon_error'] = 'Вход должен быть выполнен через '.$lang['chillispot'].' server';
 	$lang['loggedin_title'] = 'Вошли в '.$lang['chillispot'];
-	$lang['loggingin_title'] = 'Logging in to '.$lang['chillispot'];
+	$lang['loggingin_title'] = 'Вход в '.$lang['chillispot'];
 	$lang['loggedout_title'] = 'Logged out from '.$lang['chillispot'];
 	$lang['welcome_title'] = 'Приветствуем to '.$lang['chillispot'];
