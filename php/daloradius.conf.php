@@ -52,8 +52,8 @@ $configValues['CONFIG_SIGNUP_MSG_TITLE'] = "Мы предоставляем бе
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_HEADER'] = "Добро пожаловать в Barmagot HotSpot";
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_BODY'] = "we have created a username and password for you to use <br/>".
 					" to login to our system, and they are as follows:<br/><br/>";
-$configValues['CONFIG_SIGNUP_SUCCESS_MSG_LOGIN_LINK'] = "<br/>Click <b><a href='https://regtest.movieworx.co.uk/hotspotlogin/hotspotlogin.php'>here</a></b>".
+$configValues['CONFIG_SIGNUP_SUCCESS_MSG_LOGIN_LINK'] = "<br/>Нажмите <b><a href='https://regtest.movieworx.co.uk/hotspotlogin/hotspotlogin.php'>here</a></b>".
 					" to return to the Login page and start your surfing<br/><br/>";
 $configValues['CONFIG_SIGNUP_FAILURE_MSG_FIELDS'] = "You didn't fill in your first and last name, please fill-in the form again";
-$configValues['CONFIG_SIGNUP_FAILURE_MSG_CAPTCHA'] = "The image verification code is in-correct, please try again";
+$configValues['CONFIG_SIGNUP_FAILURE_MSG_CAPTCHA'] = "Код проверки введен не правильно, попробуйте еще раз";
 
