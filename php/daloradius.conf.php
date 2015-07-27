@@ -45,12 +45,12 @@ $configValues['CONFIG_DB_TBL_DALOREALMS'] = 'realms';
 $configValues['CONFIG_DB_TBL_DALOPROXYS'] = 'proxys';
 $configValues['CONFIG_DB_TBL_DALOBILLINGPAYPAL'] = 'billing_paypal';
 $configValues['CONFIG_DB_TBL_DALOBILLINGPLANS'] = 'billing_plans';
-$configValues['CONFIG_LANG'] = 'en';
+$configValues['CONFIG_LANG'] = 'ru';
 $configValues['CONFIG_LOG_FREE_SIGNUP_FILENAME'] = '/tmp/free-signup.log';
 $configValues['CONFIG_SIGNUP_MSG_TITLE'] = "Мы предоставляем бесплатный сервис регистрации в Barmaglot HotSpot. <br/>".
 					"Заполните форму и нажмите кнопку Зарегистрироваться или введите Логин и Пароль.";
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_HEADER'] = "Добро пожаловать в Barmagot HotSpot";
-$configValues['CONFIG_SIGNUP_SUCCESS_MSG_BODY'] = "we have created a username and password for you to use <br/>".
+$configValues['CONFIG_SIGNUP_SUCCESS_MSG_BODY'] = "создано имя пользователя и пароль для вашего использования. <br/>".
 					" to login to our system, and they are as follows:<br/><br/>";
 $configValues['CONFIG_SIGNUP_SUCCESS_MSG_LOGIN_LINK'] = "<br/>Нажмите <b><a href='https://regtest.movieworx.co.uk/hotspotlogin/hotspotlogin.php'>here</a></b>".
 					" вернуться к странице входа и начать заново<br/><br/>";
