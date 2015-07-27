@@ -30,7 +30,7 @@
 		'age'               => 'Возраст',
 		'gender_male'       => 'Мужчина',
 		'gender_female'     => 'Женьщина',
-		'failed_fields'     => 'The following fields are either invalid or required',
+		'failed_fields'     => 'Следующие поля являются необязательными для заполнения.',
 		'enter_username'    => 'Пожалуйста, введите Ваш адрес электронной почты.',
 		'forgot_password_no_question' => 'Проблемы !!! - пожалуйста, свяжитесь с администратором сайта.',
 		'forgot_password_invalid_answer' => 'Для восстановления Вашего пароля. Пожалуйста,вспомните и введите секретный ответ.',
