@@ -30,7 +30,7 @@
 			"title"     => 'О сайте.',
 			"url"       => 'https://80.245.114.154/hotspotlogin/pages/about.php'
 		),
-        array(
+		 array(
 			"name"      => 'HotSpot',
 			"title"     => 'HotSpot.',
 			"url"       => 'https://80.245.114.154/hotspotlogin/hotspotlogin.php'
