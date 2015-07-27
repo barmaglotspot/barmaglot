@@ -8,7 +8,7 @@
 		'login'             => 'Логин',
 		'new_register'      => 'Новая регистрация..',
 		'register'          => 'Регистрация',
-		'register_cancel'   => 'Cancel (back to Login)',
+		'register_cancel'   => 'Cancel (Вернуться на страницу входа)',
 		'pleasewait'        => 'Подождите....',
 		'login_email'       => 'Почта',
 		'login_password'    => 'Логин Пароль',
